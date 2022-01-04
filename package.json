@@ -1,0 +1,24 @@
+{
+  "name": "nwjs-demos",
+  "version": "0.0.1",
+  "description": "nw.js demos",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": {
+    "name": "uikoo9",
+    "email": "uikoo9@qq.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/uikoo9/nwjs-demos#readme",
+  "bugs": {
+    "url": "https://github.com/uikoo9/nwjs-demos/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uikoo9/nwjs-demos.git"
+  },
+  "devDependencies": {
+  }
+}
