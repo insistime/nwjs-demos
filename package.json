@@ -1,6 +1,6 @@
 {
   "name": "nwjs-demos",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "nw.js demos",
   "keywords": [],
   "main": "index.js",
